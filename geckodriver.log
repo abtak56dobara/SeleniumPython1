@@ -1,0 +1,27 @@
+1686687926709	geckodriver	INFO	Listening on 127.0.0.1:56839
+1686687927179	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/19/ygtt_6ns3gn3g3j7hq12d49w0000gn/T/rust_mozprofileecFkoE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686687927451	Marionette	INFO	Marionette enabled
+1686687927596	Marionette	INFO	Listening on port 56849
+Read port: 56849
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56840
+1686687927663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56840/devtools/browser/f2fe0a32-a0a0-420f-bbe9-d670df4db63c
+1686687940063	Marionette	INFO	Stopped listening on port 56849
+1686687940539	geckodriver	INFO	Listening on 127.0.0.1:56880
+1686687941054	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/19/ygtt_6ns3gn3g3j7hq12d49w0000gn/T/rust_mozprofileAmsYTh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686687941330	Marionette	INFO	Marionette enabled
+1686687941476	Marionette	INFO	Listening on port 56888
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:56881
+Read port: 56888
+1686687941604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56881/devtools/browser/f427aaa0-45b0-40e0-80d1-10303ecfedc2
+1686688019001	Marionette	INFO	Stopped listening on port 56888
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

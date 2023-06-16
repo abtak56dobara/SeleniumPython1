@@ -1,0 +1,2 @@
+from . import test_TC_001_Registeration_ValidData
+from . import  test_TC_002_InvalidDataRegisteration
